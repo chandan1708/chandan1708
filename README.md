@@ -52,35 +52,36 @@ class Chandan:
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![EDA](https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
 **AI / ML / DL**
 
+![CNN/ANN/RNN](https://img.shields.io/badge/CNN%20%2F%20ANN%20%2F%20RNN-0d1117?style=for-the-badge&logo=neural-network&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
 
 **LLM & RAG**
 
-![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-0d1117?style=for-the-badge&logo=neo4j&logoColor=008CC1)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
+![RAFT](https://img.shields.io/badge/RAFT-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
+![CAG](https://img.shields.io/badge/CAG-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
+![BLEU](https://img.shields.io/badge/BLEU%20Evaluation-0d1117?style=for-the-badge&logo=testcafe&logoColor=white)
 
 **Vector DBs & APIs**
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![AstraDB](https://img.shields.io/badge/AstraDB-0d1117?style=for-the-badge&logo=datastax&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![DRF](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
 
 </div>
-
----
 
 ## — What I Build
 
@@ -88,59 +89,51 @@ class Chandan:
 <tr>
 <td width="50%" valign="top">
 
-###  ACCIRESCUE
-**AI-powered accident detection & emergency routing**
+###  ALP Intelligence Surveillance
+**Advanced AI Surveillance System with real-time phone usage detection, waste monitoring, and attendance tracking achieving 89% accuracy. Reduced manual oversight by 40%.**
 
-- Live CCTV feed analysis with computer vision
-- Real-time ambulance routing using traffic data
-- `+40%` improvement in emergency response time
-- Multi-stakeholder coordination: hospitals, traffic, responders
+- Deep Learning
+- Computer Vision
+- Real-time
 
-`Python` `Computer Vision` `Deep Learning` `FastAPI`
+`Deep Learning` `Computer Vision` `Real-time`
 
-[→ View Project](#)
+[↗ View Project](https://github.com/chandan1708/ALP-Intelligence-Surveillance)
 
 </td>
 <td width="50%" valign="top">
 
-###  ALP Intelligence Surveillance
-**Real-time multi-task AI surveillance system**
+###  ACCIRESCUE
+**AI-powered accident detection and emergency routing leveraging live CCTV feeds and real-time traffic data, improving emergency response efficiency by 40%.**
 
-- Phone usage detection + waste litter monitoring
-- Continuous automated attendance tracking
-- `89%` detection accuracy
-- `40%` reduction in manual oversight
+- Computer Vision
+- Real-time Analytics
+- Emergency
 
-`CNN` `OpenCV` `TensorFlow` `Agentic AI`
+`Computer Vision` `Real-time Analytics` `Emergency`
 
-[→ View Project](#)
+[↗ View Project](https://github.com/chandan1708/ACCIRESCUE)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  KrushiAI Rover
-**Autonomous ML-driven agricultural rover**
+###  KrushiAI
+**Autonomous ML-driven agricultural rover for real-time field data and crop recommendations. Won 1st Place at Fusion Techathon 3.0, outperforming 104 teams.**
 
-- Real-time field data collection & crop recommendations
-- ** 1st Place** — Fusion Techathon 3.0 (beat 104 teams)
-- 24-hour national hackathon build
+- Machine Learning
+- IoT
+- Autonomous Systems
 
-`ML` `Robotics` `Computer Vision` `Edge AI`
+`Machine Learning` `IoT` `Autonomous Systems`
 
-[→ View Project](#)
-
-</td>
-<td width="50%" valign="top">
-
-
+[↗ View Project](#)
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
-
----
 
 ## — By the Numbers
 
