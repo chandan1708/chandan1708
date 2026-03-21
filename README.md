@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/chandan1708/count.svg" alt="Visitor's Count" />
+</div>
+
 # 💫 About Me:
 I build machines that see, read, and decide where vision meets language and ideas become intelligent systems. Training minds within models LLMs, RAG, and shaping AI to run faster, leaner, and closer to the business. Open to building what matters by turning code into impact, and algorithms into real-world change.
 
