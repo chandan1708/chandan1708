@@ -1,4 +1,4 @@
-<div align="center"> 
+<!-- <div align="center"> 
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=chandan1708&label=Profile%20views&color=0e75b6&style=flat" alt="chandan1708" />
 </div>
@@ -20,4 +20,77 @@ I build machines that see, read, and decide where vision meets language and idea
 ---
 [![](https://visitcount.itsvg.in/api?id=chandan1708&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+
+
+<h1 align="center">Hi 👋, I'm Chandan</h1>
+<h3 align="center">AI Engineer | Computer Vision • NLP • Generative AI</h3>
+
+<p align="center">
+  Building scalable, production-ready AI systems that transform data into real-world impact.
+</p>
+
+---
+
+## 🚀 About Me
+
+I engineer intelligent systems that integrate vision and language, transforming ideas into scalable, production-ready AI solutions.  
+Focused on real-time AI, multimodal systems, and deploying models into practical environments.
+
+---
+
+## ⚡ Highlights
+
+- ⚙️ **10+ Systems Built**
+- 🤖 **8+ Models Deployed**
+- 📊 **4K+ Data Points Processed**
+- 📈 **30%+ Efficiency Improvement**
+
+---
+
+## 🧠 Expertise
+
+- **Computer Vision** → Object Detection, Segmentation, OCR  
+- **Natural Language Processing** → Translation, Summarization, RAG  
+- **Generative AI** → LLM Fine-tuning, Prompt Engineering  
+- **Backend & Deployment** → FastAPI, Django, REST APIs  
+- **MLOps & Systems** → Pipeline Design, Optimization, Scaling  
+
+---
+
+## 🔬 Current Focus
+
+- 🔭 Building **multimodal AI systems (Vision + NLP)**  
+- 🌱 Learning **AI System Design and architecture to scale in production**  
+- 🤝 Exploring **MLOps and large-scale deployment**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandan1708&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1708&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandan1708&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *[Add your link]*  
+- 📧 Email: *[Add your email]*  
+
+---
+
+⭐ *Building AI that doesn’t just predict—but acts.*
