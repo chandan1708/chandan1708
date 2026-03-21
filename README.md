@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/chandan1708/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=chandan1708&label=Profile%20views&color=0e75b6&style=flat" alt="chandan1708" />
 </div>
 
 # 💫 About Me:
