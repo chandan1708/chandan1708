@@ -1,96 +1,198 @@
-<!-- <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=chandan1708&label=Profile%20views&color=0e75b6&style=flat" alt="chandan1708" />
+<div align="center">
+
+```
+██████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗  █████╗ ███╗   ██╗
+██╔════╝██║  ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗████╗  ██║
+██║     ███████║███████║██╔██╗ ██║██║  ██║███████║██╔██╗ ██║
+██║     ██╔══██║██╔══██║██║╚██╗██║██║  ██║██╔══██║██║╚██╗██║
+╚██████╗██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║██║ ╚████║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### `Building intelligent systems that think, learn & act.`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer+%F0%9F%A4%96;LLM+%7C+RAG+%7C+Agentic+AI+Architect;Computer+Vision+%7C+Deep+Learning;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-# 💫 About Me:
-I build machines that see, read, and decide where vision meets language and ideas become intelligent systems. Training minds within models LLMs, RAG, and shaping AI to run faster, leaner, and closer to the business. Open to building what matters by turning code into impact, and algorithms into real-world change.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandan-ramesh-7a8bb8237/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@chandan17.ramesh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31154179/chandan-r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandan17.ramesh@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chandan1708&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chandan1708&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan1708&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=chandan1708&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+## 🧠 whoami
 
+```python
+class Chandan:
+    def __init__(self):
+        self.name         = "Chandan R"
+        self.role         = "Generative AI Engineer @ WordWise Language Labs"
+        self.location     = "Bengaluru, India 🇮🇳"
+        self.education    = "B.E. in AI & Data Science — VTU (GPA: 8.056)"
+        self.focus        = ["LLMs", "RAG Pipelines", "Agentic AI", "Computer Vision"]
+        self.philosophy   = "Systems that don't just process — they understand."
 
-<h1 align="center">Hi 👋, I'm Chandan</h1>
-<h3 align="center">AI Engineer | Computer Vision • NLP • Generative AI</h3>
-
-<p align="center">
-  Building scalable, production-ready AI systems that transform data into real-world impact.
-</p>
+    def currently(self):
+        return {
+            "building"  : "Agentic AI pipelines for multilingual content intelligence",
+            "exploring" : "GraphRAG, CAG, and multi-agent orchestration",
+            "learning"  : "Advanced fine-tuning — LoRA, QLoRA, RAFT",
+        }
+```
 
 ---
 
-## 🚀 About Me
+## ⚙️ Tech Stack
 
-I engineer intelligent systems that integrate vision and language, transforming ideas into scalable, production-ready AI solutions.  
-Focused on real-time AI, multimodal systems, and deploying models into practical environments.
+<div align="center">
+
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+**AI / ML / DL**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+
+**LLM & RAG**
+
+![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-0d1117?style=for-the-badge&logo=neo4j&logoColor=008CC1)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=412991)
+
+**Vector DBs & APIs**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+</div>
 
 ---
 
-## ⚡ Highlights
+## 🚀 Featured Projects
 
-- ⚙️ **10+ Systems Built**
-- 🤖 **8+ Models Deployed**
-- 📊 **4K+ Data Points Processed**
-- 📈 **30%+ Efficiency Improvement**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔴 ACCIRESCUE
+**AI-powered accident detection & emergency routing**
 
-## 🧠 Expertise
+- Live CCTV feed analysis with computer vision
+- Real-time ambulance routing using traffic data
+- `+40%` improvement in emergency response time
+- Multi-stakeholder coordination: hospitals, traffic, responders
 
-- **Computer Vision** → Object Detection, Segmentation, OCR  
-- **Natural Language Processing** → Translation, Summarization, RAG  
-- **Generative AI** → LLM Fine-tuning, Prompt Engineering  
-- **Backend & Deployment** → FastAPI, Django, REST APIs  
-- **MLOps & Systems** → Pipeline Design, Optimization, Scaling  
+`Python` `Computer Vision` `Deep Learning` `FastAPI`
 
----
+[→ View Project](#)
 
-## 🔬 Current Focus
+</td>
+<td width="50%" valign="top">
 
-- 🔭 Building **multimodal AI systems (Vision + NLP)**  
-- 🌱 Learning **AI System Design and architecture to scale in production**  
-- 🤝 Exploring **MLOps and large-scale deployment**  
+### 🛰️ ALP Intelligence Surveillance
+**Real-time multi-task AI surveillance system**
+
+- Phone usage detection + waste litter monitoring
+- Continuous automated attendance tracking
+- `89%` detection accuracy
+- `40%` reduction in manual oversight
+
+`CNN` `OpenCV` `TensorFlow` `Agentic AI`
+
+[→ View Project](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 KrushiAI Rover
+**Autonomous ML-driven agricultural rover**
+
+- Real-time field data collection & crop recommendations
+- **🏆 1st Place** — Fusion Techathon 3.0 (beat 104 teams)
+- 24-hour national hackathon build
+
+`ML` `Robotics` `Computer Vision` `Edge AI`
+
+[→ View Project](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Wordsworth @ WordWise
+**Multilingual content intelligence platform**
+
+- Multi-source agentic data pipelines
+- `35%` boost in knowledge retrieval accuracy
+- `95%` reduction in manual intervention
+- Enterprise-grade scalability
+
+`LangGraph` `RAG` `LLMs` `AWS Bedrock`
+
+[→ View Project](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandan1708&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan1708&theme=radical" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
 
----
+</div>
 
-## 👀 Profile Views
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandan1708&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Highlights
 
-- 💼 LinkedIn: *[Add your link]*  
-- 📧 Email: *[Add your email]*  
+```
+🥇  1st Place  — Fusion Techathon 3.0 (National, 24hr) ............. Led 104-team competition
+🎯  Semi-Finalist — Srishti Tech Innovation Competition ............. AI-based digital invitation system
+🩸  President  — Red Cross Unit (SDMIT) ............................ Blood drives & health outreach
+🎖️  Vice-Captain — NCC (A-Grade, B Certificate) ..................... Leadership, drills, national camps
+```
 
 ---
 
-⭐ *Building AI that doesn’t just predict—but acts.*
+## 📡 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:chandan17.ramesh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Intelligence is not about processing data — it's about knowing what matters."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+
+</div>
