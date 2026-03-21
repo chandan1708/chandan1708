@@ -15,7 +15,7 @@
 
 ### `Building intelligent systems that think, learn & act.`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer+%F0%9F%A4%96;LLM+%7C+RAG+%7C+Agentic+AI+Architect;Computer+Vision+%7C+Deep+Learning;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM+%7C+RAG+%7C+Agentic+AI+Architect;Computer+Vision+%7C+Deep+Learning;Open+to+Collaborate)](https://git.io/typing-svg)
 
 </div>
 
@@ -88,7 +88,7 @@ class Chandan:
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 ACCIRESCUE
+###  ACCIRESCUE
 **AI-powered accident detection & emergency routing**
 
 - Live CCTV feed analysis with computer vision
@@ -103,7 +103,7 @@ class Chandan:
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ ALP Intelligence Surveillance
+###  ALP Intelligence Surveillance
 **Real-time multi-task AI surveillance system**
 
 - Phone usage detection + waste litter monitoring
@@ -120,11 +120,11 @@ class Chandan:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 KrushiAI Rover
+###  KrushiAI Rover
 **Autonomous ML-driven agricultural rover**
 
 - Real-time field data collection & crop recommendations
-- **🏆 1st Place** — Fusion Techathon 3.0 (beat 104 teams)
+- ** 1st Place** — Fusion Techathon 3.0 (beat 104 teams)
 - 24-hour national hackathon build
 
 `ML` `Robotics` `Computer Vision` `Edge AI`
@@ -161,10 +161,10 @@ class Chandan:
 ## — Recognition
 
 ```
-🥇  1st Place  — Fusion Techathon 3.0 (National, 24hr) ............. Led 104-team competition
-🎯  Semi-Finalist — Srishti Tech Innovation Competition ............. AI-based digital invitation system
-🩸  President  — Red Cross Unit (SDMIT) ............................ Blood drives & health outreach
-🎖️  Vice-Captain — NCC (A-Grade, B Certificate) ..................... Leadership, drills, national camps
+  1st Place  — Fusion Techathon 3.0 (National, 24hr) ............. Led 104-team competition
+  Semi-Finalist — Srishti Tech Innovation Competition ............. AI-based digital invitation system
+  President  — Red Cross Unit (SDMIT) ............................ Blood drives & health outreach
+  Vice-Captain — NCC (A-Grade, B Certificate) ..................... Leadership, drills, national camps
 ```
 
 ---
