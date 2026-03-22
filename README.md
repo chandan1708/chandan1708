@@ -131,7 +131,18 @@ class Chandan:
 [↗ View Project](#)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+###  Portfolio
+**Generative AI Engineer building scalable, real-world intelligent systems across GenAI, NLP, and computer vision turning complex data into high-impact, efficient solutions.**
+
+- Open Source
+
+`Open Source`
+
+[↗ View Project](https://github.com/chandan1708/portfolio)
+
+</td>
 </tr>
 </table>
 
