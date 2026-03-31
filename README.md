@@ -89,16 +89,18 @@ class Chandan:
 <tr>
 <td width="50%" valign="top">
 
-###  ALP Intelligence Surveillance
-**Advanced AI Surveillance System with real-time phone usage detection, waste monitoring, and attendance tracking achieving 89% accuracy. Reduced manual oversight by 40%.**
+### BiblioEngine Recommendation System
+**End-to-end collaborative filtering machine learning pipeline delivering highly personalized book suggestions. Containerized and deployed on AWS EC2 with a premium, responsive UI.**
 
-- Deep Learning
-- Computer Vision
-- Real-time
+- Machine Learning
+- Collaborative Filtering
+- Cloud Deployment
 
-`Deep Learning` `Computer Vision` `Real-time`
+`Machine Learning` `Collaborative Filtering` `Python` `Docker` `AWS` `Streamlit`
 
-[↗ View Project](https://github.com/chandan1708/ALP-Intelligence-Surveillance)
+[↗ View Project](https://github.com/chandan1708/BiblioEngine-a-Recomendation-System)
+[↗ live demo](http://13.217.111.62:8501/)
+
 
 </td>
 <td width="50%" valign="top">
