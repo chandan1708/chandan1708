@@ -98,59 +98,58 @@ class Chandan:
 
 `Machine Learning` `Collaborative Filtering` `Python` `Docker` `AWS` `Streamlit`
 
-[↗ View Project](https://github.com/chandan1708/BiblioEngine-a-Recomendation-System)
-
-[↗ live demo](http://107.20.48.170:8501/)
-
+[↗ View Project](https://github.com/chandan1708/BiblioEngine-a-Recomendation-System)  
+[↗ Live Demo](http://107.20.48.170:8501/)
 
 </td>
 
 <td width="50%" valign="top">
 
-###  Azure AI GPT-4 Fine-Tuning Chatbot
+### Azure AI GPT-4 Fine-Tuning Chatbot
 **Browser-based customer support chatbot powered by a fine-tuned GPT-4o model on Azure OpenAI, delivering real-time streaming responses with high-accuracy domain adaptation.**
-- Generative AI
-- Fine-Tuning (SFT)
-- Real-Time Streaming
+
+- Generative AI  
+- Fine-Tuning (SFT)  
+- Real-Time Streaming  
 
 `Azure OpenAI` `GPT-4o` `React` `Vite` `Node.js` `SSE` `JavaScript`
 
-[↗ View Project](https://github.com/chandan1708/azure-ai-gpt4-finetuning)
-
-[↗ live demo](https://react-app-cicd0716.s3.us-east-1.amazonaws.com/index.html)
+[↗ View Project](https://github.com/chandan1708/azure-ai-gpt4-finetuning)  
+[↗ Live Demo](https://react-app-cicd0716.s3.us-east-1.amazonaws.com/index.html)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-###  ACCIRESCUE
+### ACCIRESCUE
 **AI-powered accident detection and emergency routing leveraging live CCTV feeds and real-time traffic data, improving emergency response efficiency by 40%.**
 
-- Computer Vision
-- Real-time Analytics
-- Emergency
+- Computer Vision  
+- Real-time Analytics  
+- Emergency Systems  
 
 `Computer Vision` `Real-time Analytics` `Emergency`
 
 [↗ View Project](https://github.com/chandan1708/ACCIRESCUE)
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-###  KrushiAI
+### KrushiAI
 **Autonomous ML-driven agricultural rover for real-time field data and crop recommendations. Won 1st Place at Fusion Techathon 3.0, outperforming 104 teams.**
 
-- Machine Learning
-- IoT
-- Autonomous Systems
+- Machine Learning  
+- IoT  
+- Autonomous Systems  
 
 `Machine Learning` `IoT` `Autonomous Systems`
 
 [↗ View Project](#)
 
 </td>
-
 </tr>
 </table>
 
