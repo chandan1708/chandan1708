@@ -104,6 +104,22 @@ class Chandan:
 
 
 </td>
+
+<td width="50%" valign="top">
+
+###  Azure AI GPT-4 Fine-Tuning Chatbot
+**Browser-based customer support chatbot powered by a fine-tuned GPT-4o model on Azure OpenAI, delivering real-time streaming responses with high-accuracy domain adaptation.**
+- Generative AI
+- Fine-Tuning (SFT)
+- Real-Time Streaming
+
+`Azure OpenAI` `GPT-4o` `React` `Vite` `Node.js` `SSE` `JavaScript`
+
+[↗ View Project](https://github.com/chandan1708/azure-ai-gpt4-finetuning)
+
+[↗ live demo](https://react-app-cicd0716.s3.us-east-1.amazonaws.com/index.html)
+
+</td>
 <td width="50%" valign="top">
 
 ###  ACCIRESCUE
@@ -134,18 +150,7 @@ class Chandan:
 [↗ View Project](#)
 
 </td>
-<td width="50%" valign="top">
 
-###  Portfolio
-**Generative AI Engineer building scalable, real-world intelligent systems across GenAI, NLP, and computer vision turning complex data into high-impact, efficient solutions.**
-
-- Open Source
-
-`Open Source`
-
-[↗ View Project](https://github.com/chandan1708/portfolio)
-
-</td>
 </tr>
 </table>
 
