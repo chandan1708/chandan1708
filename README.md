@@ -100,7 +100,7 @@ class Chandan:
 
 [↗ View Project](https://github.com/chandan1708/BiblioEngine-a-Recomendation-System)
 
-[↗ live demo](http://13.217.111.62:8501/)
+[↗ live demo](http://107.20.48.170:8501/)
 
 
 </td>
